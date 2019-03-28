@@ -1,7 +1,7 @@
 
 **Section 12  (Node.js & MySQL) Bamazon Customer and Manager Assignment**
 
-![LiriBotScreenCap](images/Bamazon.png)
+![Bamazon](images/Bamazon.png)
 
 **Assignment Details:**
 
